@@ -1,0 +1,3 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme # 使此插件能够加载远程主题
